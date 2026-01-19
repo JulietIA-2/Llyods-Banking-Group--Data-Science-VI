@@ -1,0 +1,13 @@
+# Llyods-Banking-Group--Data-Science-VI
+This repository contains a detailed process of identifying customer churn at LBG.
+
+I selected the customer demographics because this will give me an insight into knowing the customers and will make it easier to link them to their patterns, 		
+Their transaction history is also very important component to understand the customers nmore, their spending style, and trends 		
+And finally customer service history will help me understand how the customer service dept has either played a positive or negative role in retaining the customers each time they have complaints or issues are raised. How were their issues resolved, how fast were they attended to did they have a good experience?		
+All of these will be significant in understanding the customer churn and making future predictions on improvemen ts that will set LBG on a greater part		
+			
+			
+Customer ID, Age, marital status and income level can give us some insights		
+Customer ID, amount spent,   - can drop transaction id		
+All the features on customer_service will be quite  interaction id can be dropped too		 
+
