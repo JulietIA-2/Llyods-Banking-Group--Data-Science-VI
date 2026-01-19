@@ -9,5 +9,12 @@ All of these will be significant in understanding the customer churn and making 
 			
 Customer ID, Age, marital status and income level can give us some insights		
 Customer ID, amount spent,   - can drop transaction id		
-All the features on customer_service will be quite  interaction id can be dropped too		 
+All the features on customer_service will be quite  interaction id can be dropped too	
 
+From the inspection i observed that a total of 668 customers reached out to customer service, that means 332 never contacted customer service that could mean they never had issues, the data types are in correct format, there are no missing values, the customer id which is the unique identifier cuts across all data sets equalluy
+
+EDA
+this reveals the distributions of various categories in the datasets such as age, gender, transaction by customer - spread of transaction  count, customer service interaction type, churn status, online service usage,
+
+
+CLEANING AND INTEGRATION
